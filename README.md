@@ -1,5 +1,9 @@
 # 📊 Análise de DRE no Power BI | Estudo de Caso
 
+## 📊 Dashboard no Power BI
+
+![Dashboard DRE no Power BI](imagem_do_dashboard_DRE_powerBI.png)
+
 Este projeto consiste em um **estudo de caso de Análise de Dados e Business Intelligence**, utilizando uma **Demonstração do Resultado do Exercício (DRE)** como base para construção de um **dashboard no Power BI**, com foco em análise financeira e apoio à tomada de decisão.
 
 O projeto foi desenvolvido como parte do meu **portfólio para Analista de Dados**, demonstrando a capacidade de transformar dados financeiros em informações claras, visuais e estratégicas.
