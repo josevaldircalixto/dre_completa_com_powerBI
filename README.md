@@ -1,219 +1,108 @@
-📊 Fluxo de Caixa Completo no Power BI | Análise Financeira e Business Intelligence
-🚀 Projeto de Portfólio para Analista de Dados / BI
+# 📊 Análise de DRE no Power BI | Estudo de Caso
 
-Este projeto apresenta a construção completa de um modelo de Fluxo de Caixa no Power BI, desde a organização dos dados até a criação de indicadores estratégicos para apoio à tomada de decisão.
+## 📊 Dashboard no Power BI
 
-O objetivo foi demonstrar competências essenciais para atuação como Analista de Dados / BI, incluindo:
+![Dashboard DRE no Power BI](imagem_do_dashboard_DRE_powerBI.png)
 
-Modelagem de dados
+Este projeto consiste em um **estudo de caso de Análise de Dados e Business Intelligence**, utilizando uma **Demonstração do Resultado do Exercício (DRE)** como base para construção de um **dashboard no Power BI**, com foco em análise financeira e apoio à tomada de decisão.
 
-Transformação e limpeza com Power Query
+O projeto foi desenvolvido como parte do meu **portfólio para Analista de Dados**, demonstrando a capacidade de transformar dados financeiros em informações claras, visuais e estratégicas.
 
-Criação de medidas em DAX
+---
 
-Construção de KPIs financeiros
+## 🎯 Objetivo do Projeto
 
-Visualização estratégica de informações
+- Analisar o desempenho financeiro da empresa a partir da DRE
+- Aplicar **análise vertical e horizontal**
+- Criar **KPIs financeiros** relevantes
+- Desenvolver um **dashboard interativo no Power BI**
+- Demonstrar raciocínio analítico e visão de negócio
 
-Interpretação de resultados
+---
 
-🎯 Problema de Negócio
+## 📁 Fonte dos Dados
 
-Empresas precisam acompanhar:
+- Dados **fictícios / simulados**, criados exclusivamente para fins educacionais e de portfólio
+- Estrutura baseada em uma DRE real, respeitando boas práticas contábeis
 
-Entradas e saídas financeiras
+---
 
-Evolução do saldo ao longo do tempo
+## 📊 Análises Realizadas
 
-Impacto das categorias de despesas
+### 🔹 Análise Vertical
+- Cada linha da DRE foi analisada como percentual da **Receita Líquida**
+- Permite entender a **estrutura de custos, despesas e margens**
+- Identificação do peso de cada componente no resultado final
 
-Tendências mensais de caixa
+### 🔹 Análise Horizontal
+- Comparação dos resultados entre períodos
+- Avaliação da **evolução da receita, custos, despesas e lucro**
+- Identificação de tendências e variações relevantes
 
-Sem uma visualização estruturada, a tomada de decisão se torna reativa e baseada apenas em números brutos.
+---
 
-Este dashboard transforma dados financeiros em insights claros e acionáveis.
+## 📈 Principais Indicadores (KPIs)
 
-🧠 Competências Demonstradas
+- Receita Líquida
+- Custo Total
+- Margem Bruta
+- Despesas Operacionais
+- Resultado Operacional
+- Lucro Líquido
+- Margem Líquida (%)
 
-Business Intelligence
+---
 
-Análise Financeira
+## 🛠️ Ferramentas Utilizadas
 
-Power BI
+- **Power BI**
+- **Power Query** (tratamento e transformação dos dados)
+- **DAX** (medidas e cálculos)
+- **Excel** (estruturação inicial dos dados)
 
-Power Query
+---
 
-DAX
+---
 
-ETL
+## ▶️ Vídeo Explicativo no YouTube
 
-Modelagem de Dados
+No vídeo abaixo, explico:
+- Conceito de DRE
+- Análise vertical e horizontal
+- Construção do dashboard no Power BI
+- Interpretação dos principais resultados
 
-SQL (conceitos aplicáveis ao modelo relacional)
+🎥 **Assista aqui:**  
+👉 https://youtu.be/YEhF-Mr_tug
 
-Excel para estruturação de base
+---
 
-Organização de dados para tomada de decisão
+## 🚀 Como Utilizar o Projeto
 
-📁 Fonte dos Dados
+1. Faça o download do arquivo `.pbix`
+2. Abra no **Power BI Desktop**
+3. Atualize as consultas no Power Query (se necessário)
+4. Explore os filtros e visuais do dashboard
 
-Dados fictícios / simulados
+---
 
-Criados exclusivamente para fins educacionais
+## 📌 Observações
 
-Estrutura baseada em boas práticas financeiras
+- Este projeto tem finalidade **educacional e demonstrativa**
+- Nenhum dado sensível ou real de empresa foi utilizado
+- O foco é demonstrar **capacidade analítica, visualização e interpretação de dados**
 
-Modelagem inspirada em cenários reais de fluxo de caixa empresarial
+---
 
-Nenhum dado real foi utilizado.
+## 👤 Autor
 
-🔎 Etapas Técnicas do Projeto
-1️⃣ Estruturação da Base
+**José Valdir Calixto**  
+Analista de Dados
 
-Organização de entradas e saídas
+🔗 Portfólio: https://portfolio-jvc.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/josevaldircalixto  
 
-Classificação por categoria
+---
 
-Padronização de datas
+📊 *Projeto desenvolvido para demonstrar habilidades em Análise de Dados, Business Intelligence e interpretação financeira.*
 
-Separação por período mensal
-
-2️⃣ Transformação com Power Query
-
-Limpeza de dados
-
-Ajuste de tipos
-
-Criação de colunas auxiliares
-
-Preparação para modelagem
-
-3️⃣ Modelagem de Dados
-
-Criação de relacionamento entre tabelas
-
-Estruturação de tabela calendário
-
-Aplicação de boas práticas de modelagem
-
-4️⃣ Medidas Criadas em DAX
-
-Total de Entradas
-
-Total de Saídas
-
-Saldo do Período
-
-Saldo Acumulado
-
-Variação Mensal
-
-Indicadores por Categoria
-
-📈 Principais KPIs do Dashboard
-
-Total de Recebimentos
-
-Total de Pagamentos
-
-Resultado Operacional
-
-Saldo Acumulado
-
-Evolução Mensal
-
-Análise por Categoria
-
-O dashboard permite:
-
-Filtrar por período
-
-Comparar meses
-
-Identificar tendências
-
-Avaliar impacto financeiro
-
-🛠️ Ferramentas Utilizadas
-
-Power BI Desktop
-
-Power Query
-
-DAX
-
-Excel
-
-Git e GitHub
-
-▶️ Vídeo Explicativo Completo
-
-Neste vídeo apresento:
-
-Conceito de Fluxo de Caixa
-
-Organização da base
-
-Tratamento com Power Query
-
-Criação das medidas em DAX
-
-Construção do dashboard
-
-Interpretação dos resultados
-
-🎥 Assista aqui:
-https://youtu.be/xVHWou6O8ds
-
-🚀 Como Executar o Projeto
-
-Baixe o arquivo .pbix
-
-Abra no Power BI Desktop
-
-Explore o modelo de dados
-
-Analise as medidas em DAX
-
-Interaja com os filtros do dashboard
-
-📌 Estrutura do Repositório
-
-📁 Arquivo .pbix
-
-📁 Base em Excel
-
-📄 README detalhado
-
-📸 Prints do dashboard (se adicionados)
-
-💼 Aplicação Profissional
-
-Este projeto demonstra capacidade de:
-
-Traduzir dados financeiros em indicadores estratégicos
-
-Estruturar análises claras e visuais
-
-Criar dashboards executivos
-
-Apoiar decisões com base em dados
-
-Comunicar resultados de forma objetiva
-
-👤 Autor
-
-José Valdir Calixto
-Analista de Dados / Business Intelligence
-
-🔗 Repositório:
-https://github.com/josevaldircalixto/criando_um_fluxo_de_caixa_completo_com_power_bi
-
-🔗 Portfólio:
-https://portfolio-jvc.vercel.app/
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/josevaldircalixto
-
-🔗 YouTube:
-https://www.youtube.com/channel/UCwm1ofyXqb8x6AxHXJVa-zw
